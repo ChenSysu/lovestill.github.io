@@ -21,4 +21,4 @@ You can see his mailing address, visiting address and picture in [here](https://
 
 
 ## Contact
-* chenww26[at]mail2.sysu.edu.cn
+* chenww26@mail2.sysu.edu.cn

@@ -20,5 +20,9 @@ He enjoys writing about himself in the third person.
 You can see his mailing address, visiting address and picture in [here](https://www.illc.uva.nl/People/show_person.php?Person_id=Chen+W.).
 
 
+## Publication
+* Weiwei Chen and Ulle Endriss. Preservation of Semantic Properties during the Aggregation of Abstract Argumentation Frameworks. In Proceedings of the 16th Conference on Theoretical Aspects of Rationality and Knowledge (TARK-2017), July 2017.
+
+
 ## Contact
 * chenww26@mail2.sysu.edu.cn

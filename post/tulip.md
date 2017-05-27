@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 郁金香
+title:
 ---
 
 

@@ -21,7 +21,7 @@ You can see his mailing address, visiting address and picture in [here](https://
 
 
 ## Publication
-* Weiwei Chen and Ulle Endriss. Preservation of Semantic Properties during the Aggregation of Abstract Argumentation Frameworks. In *Proceedings of the 16th Conference on Theoretical Aspects of Rationality and Knowledge (TARK-2017)*, July 2017. ([BibTex]({{ site.url }}/bib/ChenEndrissTARK2017.bib), [Paper]({{ site.url }}/papers/ChenEndrissTARK2017.pdf))
+* Weiwei Chen and Ulle Endriss. Preservation of Semantic Properties during the Aggregation of Abstract Argumentation Frameworks. In J\'er\^ome Lang: Proceedings Sixteenth Conference on *Theoretical Aspects of Rationality and Knowledge* (TARK 2017), Liverpool, UK, 24-26 July 2017, Electronic Proceedings in Theoretical Computer Science 251, pp. 118–133. ([BibTex]({{ site.url }}/bib/ChenEndrissTARK2017.bib), [Paper]({{ site.url }}/papers/ChenEndrissTARK2017.pdf))
 
 
 ## Contact

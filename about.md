@@ -25,13 +25,13 @@ You can see his picture in [here](http://chenww.com/weiwei.jpg).
 
 ## Talks
 
-* **What can we expect from consensus decision-making?**<br>
+* **What Can We Expect from Consensus Decision-making?**<br>
 [Cool Logic Seminar](http://events.illc.uva.nl/coollogic/talks/77), University of Amsterdam, The Netherlands, September, 2017.
 
 * **Aggregation of Abstract Argumentation Frameworks**,<br>
 [Computational Social Choice Seminar](https://www.illc.uva.nl/NewsandEvents/Events/Upcoming-Events/newsitem/9103/20-June-2017,-Computational-Social-Choice-Seminar,-Weiwei-Chen), University of Amsterdam, The Netherlands, June, 2017.
 
-* **François Recanati’s contextualism and its inconsistency**,<br>
+* **François Recanati’s Contextualism and its Inconsistency**,<br>
 Workshop for PhD Students of Philosophy from Five Universities (第八届南北五校哲学博士生论坛), Wuhan University, China, Novermber, 2015.
 
 ## Contact

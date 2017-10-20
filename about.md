@@ -25,10 +25,10 @@ You can see his mailing address, visiting address and picture in [here](https://
 
 ## Talks
 
-* **What can we expect from consensus decision-making?**
+* **What can we expect from consensus decision-making?**<br>
 [Cool Logic Seminar](http://events.illc.uva.nl/coollogic/talks/77), University of Amsterdam, The Netherlands, September, 2017.
 
-* **Aggregation of Abstract Argumentation Frameworks**,
+* **Aggregation of Abstract Argumentation Frameworks**,<br>
 [Computational Social Choice Seminar](https://www.illc.uva.nl/NewsandEvents/Events/Upcoming-Events/newsitem/9103/20-June-2017,-Computational-Social-Choice-Seminar,-Weiwei-Chen), University of Amsterdam, The Netherlands, June, 2017.
 
 

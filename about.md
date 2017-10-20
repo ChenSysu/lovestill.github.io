@@ -31,8 +31,6 @@ You can see his mailing address, visiting address and picture in [here](https://
 * **Aggregation of Abstract Argumentation Frameworks**,<br>
 [Computational Social Choice Seminar](https://www.illc.uva.nl/NewsandEvents/Events/Upcoming-Events/newsitem/9103/20-June-2017,-Computational-Social-Choice-Seminar,-Weiwei-Chen), University of Amsterdam, The Netherlands, June, 2017.
 
-* **Aggregation of Abstract Argumentation Frameworks**,<br>
-
 
 ## Contact
 * chenww26@mail2.sysu.edu.cn

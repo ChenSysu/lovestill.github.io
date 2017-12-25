@@ -32,7 +32,7 @@ You can see his picture in [here](http://chenww.com/weiwei.jpg).
 [Computational Social Choice Seminar](https://www.illc.uva.nl/NewsandEvents/Events/Upcoming-Events/newsitem/9103/20-June-2017,-Computational-Social-Choice-Seminar,-Weiwei-Chen), University of Amsterdam, The Netherlands, June, 2017.
 
 * **François Recanati’s Contextualism and its Inconsistency**,<br>
-Workshop for PhD Students of Philosophy from Five Universities (第八届南北五校哲学博士生论坛), Wuhan University, China, Novermber, 2015.
+Workshop for PhD Students in Philosophy from Five Universities (第八届南北五校哲学博士生论坛), Wuhan University, China, Novermber, 2015.
 
 ## Contact
 * chenww26@mail2.sysu.edu.cn

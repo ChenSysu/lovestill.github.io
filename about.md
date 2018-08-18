@@ -7,11 +7,9 @@ title:
   Hi there!
 </p>
 ## About
-This is Weiwei Chen's homepage. Weiwei is a Ph.D. candidate at Institute of Logic and Cognition (ILC) and Department of Philosophy, Sun Yat-sen University, China. He used to be a visiting Ph.D. candidate from at Institute for Logic, Language and Computation ([ILLC](https://www.illc.uva.nl/)), University of Amsterdam, The Netherlands.
+This is Weiwei Chen's homepage. Weiwei is a Ph.D. candidate at Institute of Logic and Cognition (ILC) and Department of Philosophy, Sun Yat-sen University, China.
 
 Weiwei's research falls in interdisciplinary areas such as logic, argumentation theory, artificial intelligence and philosophy. Now his research has been to get a better understanding of how best to aggregate the argumentative positions of several individual agents. 
-
-Currently he is a member of [Computational Social Choice Group](https://staff.fnwi.uva.nl/u.endriss/group.php) organized by [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/).
 
 He obtained his master's degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at Guangzhou University, China.
 

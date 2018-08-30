@@ -19,7 +19,7 @@ You can see his picture in [here](http://chenww.com/weiwei.jpg).
 
 
 ## Publications
-* **Weiwei Chen. Aggregation of Argumentative Stances.**<br> In *Proceedings of the 3rd The Second Summer School on Argumentation*, September 2018.
+* **Weiwei Chen. Aggregation of Argumentative Stances.**<br> In *Proceedings of the Third Summer School on Argumentation*, September 2018.
 
 * **Weiwei Chen and Ulle Endriss. Aggregating Alternative Extensions of Abstract Argumentation Frameworks: Preservation Results for Quota Rules.**<br> In *Proceedings of the 7th International Conference on Computational Models of Argument (COMMA-2018)*, September 2018. ([BibTex]({{ site.url }}/bib/ChenEndrissCOMMA2018.bib))
 

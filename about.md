@@ -27,6 +27,9 @@ You can see his picture in [here](http://chenww.com/weiwei.jpg).
 
 ## Talks
 
+* **Aggregating Extensions of Abstract Argumentation Frameworks**,<br>
+[Computational Social Choice Seminar](http://www.illc.uva.nl/NewsandEvents/Events/Upcoming-Events/newsitem/10156/19-September-2018-Computational-Social-Choice-Seminar-Weiwei-Chen), University of Amsterdam, The Netherlands, September, 2018.
+
 * **What Can We Expect from Consensus Decision-making?**<br>
 [Cool Logic Seminar](http://events.illc.uva.nl/coollogic/talks/77), University of Amsterdam, The Netherlands, September, 2017.
 

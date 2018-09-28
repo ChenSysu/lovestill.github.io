@@ -39,6 +39,14 @@ You can see his picture in [here](http://chenww.com/weiwei.jpg).
 * **François Recanati’s Contextualism and its Inconsistency**,<br>
 Workshop for PhD Students in Philosophy from Five Universities (第八届南北五校哲学博士生论坛), Wuhan University, China, Novermber, 2015.
 
+## Teaching
+
+Teaching assistant (Sun Yat-sen University)
+
+* Mathematical analysis (Fall, 2015)
+
+* Philosophy of Logic (Spring, 2016)
+
 ## Contact
 * chenww26@mail2.sysu.edu.cn
 

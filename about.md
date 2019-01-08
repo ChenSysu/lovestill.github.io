@@ -19,7 +19,7 @@ You can see his picture in [here](http://chenww.com/weiwei.jpg).
 
 
 ## Publications
-* **Weiwei Chen and [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/). Preservation of Semantic Properties in Collective Argumentation: The Case of Aggregating Abstract Argumentation Frameworks.** *Artificial Intelligence*, Forthcoming. ([BibTex]({{ site.url }}/bib/ChenEndrissAIJ2019.bib), [Paper]({{ site.url }}/papers/ChenEndrissAIJ2019.pdf))
+* **Weiwei Chen and [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/). Preservation of Semantic Properties in Collective Argumentation: The Case of Aggregating Abstract Argumentation Frameworks.** *Artificial Intelligence*, 269:27-48, 2019. ([BibTex]({{ site.url }}/bib/ChenEndrissAIJ2019.bib), [Paper]({{ site.url }}/papers/ChenEndrissAIJ2019.pdf))
 
 * **Weiwei Chen. Aggregation of Argumentative Stances.**<br> In *Proceedings of the Third Summer School on Argumentation (Student Session)*, September 2018. ([BibTex]({{ site.url }}/bib/ChenSSA2018.bib), [Paper]({{ site.url }}/papers/ChenSSA2018.pdf))
 

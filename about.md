@@ -13,8 +13,6 @@ Weiwei's research falls in interdisciplinary areas such as logic, argumentation 
 
 He obtained his master's degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at [Guangzhou University](http://english.gzhu.edu.cn/), China.
 
-He enjoys writing about himself in the third person.
-
 You can see his CV in [here](http://chenww.com/cv_weiweichen.pdf) and his picture in [here](http://chenww.com/weiwei.jpg).
 
 

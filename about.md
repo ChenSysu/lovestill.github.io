@@ -13,7 +13,7 @@ Weiwei's research falls in interdisciplinary areas such as logic, argumentation 
 
 He obtained his master's degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at [Guangzhou University](http://english.gzhu.edu.cn/), China. He used to be a guest Ph.D. candidate at IllC, University of Amsterdam, served as a member of the [COSMOC](https://staff.fnwi.uva.nl/u.endriss/group.php) group which led by [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/).
 
-You can see his CV in [here](http://chenww.com/cv_weiweichen.pdf) and his picture in [here](http://chenww.com/weiwei.jpg).
+You can see his CV in [here](http://chenww.com/cv_weiweichen.pdf) and his picture in [here](http://chenww.com/weiwei.jpg). Currently he is on the academic job market.
 
 
 ## Publications

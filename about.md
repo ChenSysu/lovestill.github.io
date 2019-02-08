@@ -11,19 +11,19 @@ This is Weiwei Chen's homepage. Weiwei is a Ph.D. candidate at [Institute of Log
 
 Weiwei's research falls in interdisciplinary areas such as logic, argumentation theory, artificial intelligence and philosophy. Now his research has been to get a better understanding of how best to aggregate the argumentative positions of several individual agents. 
 
-He obtained his master's degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at [Guangzhou University](http://english.gzhu.edu.cn/), China.
+He obtained his master's degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at [Guangzhou University](http://english.gzhu.edu.cn/), China. He used to be a guest Ph.D. candidate at IllC, University of Amsterdam, served as a member of the [COSMOC](https://staff.fnwi.uva.nl/u.endriss/group.php) group which led by [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/).
 
 You can see his CV in [here](http://chenww.com/cv_weiweichen.pdf) and his picture in [here](http://chenww.com/weiwei.jpg).
 
 
 ## Publications
-* **Weiwei Chen and [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/). Preservation of Semantic Properties in Collective Argumentation: The Case of Aggregating Abstract Argumentation Frameworks.** *Artificial Intelligence*, 269:27-48, 2019. ([BibTex]({{ site.url }}/bib/ChenEndrissAIJ2019.bib), [Paper]({{ site.url }}/papers/ChenEndrissAIJ2019.pdf))
+* **Weiwei Chen and Ulle Endriss. Preservation of Semantic Properties in Collective Argumentation: The Case of Aggregating Abstract Argumentation Frameworks.** *Artificial Intelligence*, 269:27-48, 2019. ([BibTex]({{ site.url }}/bib/ChenEndrissAIJ2019.bib), [Paper]({{ site.url }}/papers/ChenEndrissAIJ2019.pdf))
 
 * **Weiwei Chen. Aggregation of Argumentative Stances.**<br> In *Proceedings of the Third Summer School on Argumentation (Student Session)*, September 2018. ([BibTex]({{ site.url }}/bib/ChenSSA2018.bib), [Paper]({{ site.url }}/papers/ChenSSA2018.pdf))
 
-* **Weiwei Chen and [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/). Aggregating Alternative Extensions of Abstract Argumentation Frameworks: Preservation Results for Quota Rules.**<br> In *Proceedings of the 7th International Conference on Computational Models of Argument (COMMA-2018)*, pp. 425–436, 2018. ([BibTex]({{ site.url }}/bib/ChenEndrissCOMMA2018.bib), [Paper]({{ site.url }}/papers/ChenEndrissCOMMA2018.pdf), [Slides]({{ site.url }}/slides/comma-slides.pdf))
+* **Weiwei Chen and Ulle Endriss. Aggregating Alternative Extensions of Abstract Argumentation Frameworks: Preservation Results for Quota Rules.**<br> In *Proceedings of the 7th International Conference on Computational Models of Argument (COMMA-2018)*, pp. 425–436, 2018. ([BibTex]({{ site.url }}/bib/ChenEndrissCOMMA2018.bib), [Paper]({{ site.url }}/papers/ChenEndrissCOMMA2018.pdf), [Slides]({{ site.url }}/slides/comma-slides.pdf))
 
-* **Weiwei Chen and [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/). Preservation of Semantic Properties during the Aggregation of Abstract Argumentation Frameworks.**<br> In *Proceedings Sixteenth Conference on Theoretical Aspects of Rationality and Knowledge* (TARK-2017), pp. 118–133, 2017. ([BibTex]({{ site.url }}/bib/ChenEndrissTARK2017.bib), [Paper]({{ site.url }}/papers/ChenEndrissTARK2017.pdf), [Slides]({{ site.url }}/slides/tark-slides.pdf))
+* **Weiwei Chen and Ulle Endriss. Preservation of Semantic Properties during the Aggregation of Abstract Argumentation Frameworks.**<br> In *Proceedings Sixteenth Conference on Theoretical Aspects of Rationality and Knowledge* (TARK-2017), pp. 118–133, 2017. ([BibTex]({{ site.url }}/bib/ChenEndrissTARK2017.bib), [Paper]({{ site.url }}/papers/ChenEndrissTARK2017.pdf), [Slides]({{ site.url }}/slides/tark-slides.pdf))
 
 ## Talks
 

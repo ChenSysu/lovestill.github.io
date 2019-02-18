@@ -9,7 +9,7 @@ title:
 ## About
 This is Weiwei Chen's homepage. Weiwei is a Ph.D. candidate at [Institute of Logic and Cognition](http://logic.sysu.edu.cn/) (ILC) and Department of Philosophy, [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), China. 
 
-Weiwei's research falls in interdisciplinary areas such as logic, argumentation theory, artificial intelligence and philosophy. Now his research has been to get a better understanding of how best to aggregate the argumentative positions of several individual agents. 
+Weiwei's research falls in interdisciplinary areas such as logic, argumentation theory, artificial intelligence. Now his research has been to get a better understanding of how best to aggregate the argumentative positions of several individual agents. 
 
 He obtained his master's degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at [Guangzhou University](http://english.gzhu.edu.cn/), China. He used to be a guest Ph.D. candidate at IllC, University of Amsterdam, served as a member of the [COSMOC](https://staff.fnwi.uva.nl/u.endriss/group.php) group which led by [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/).
 

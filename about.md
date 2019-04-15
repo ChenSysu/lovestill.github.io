@@ -48,7 +48,7 @@ Teaching assistant (Sun Yat-sen University)
 * Philosophy of Logic (Spring, 2016)
 
 ## Contact
-* chenww26@mail2.sysu.edu.cn
+* chenww26@mail2.sysu.edu.cn, twogreat.chen@gmail.com
 
 ## 关于
 这是陈伟伟的主页
